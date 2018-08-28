@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 jekyll-theme-solid
 =================
 
@@ -14,3 +15,6 @@ Online Demo: <https://mazhuang.org/jekyll-theme-solid>
 * Post page
 
   ![post page](./images/screenshots/posts.png)
+=======
+# hixiaodai.github.io
+>>>>>>> 739c6097617bc5c946f86380ac7eadd1530d7d54
